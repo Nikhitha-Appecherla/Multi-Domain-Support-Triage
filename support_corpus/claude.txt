@@ -1,0 +1,10 @@
+Claude AI support:
+
+Login / Password issues:
+If you forgot your password, use the "Forgot Password" option on the login page.
+
+API issues:
+If Claude API is not working, verify API key and check limits.
+
+General issues:
+If Claude is not responding, refresh the page or check internet.
