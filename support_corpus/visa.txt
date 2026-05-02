@@ -1,0 +1,10 @@
+visa card support:
+
+Payment issues:
+If money is deducted but payment failed, wait 24–72 hours for reversal.
+
+Unauthorized transactions:
+Contact your bank immediately.
+
+Card blocked:
+Use app to unblock your card.

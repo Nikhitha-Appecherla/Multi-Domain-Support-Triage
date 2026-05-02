@@ -1,0 +1,14 @@
+HackerRank login issues:
+If you are unable to log in, use the "Forgot Password" option to reset your password. Make sure you are using the correct registered email address.
+
+Assessment problems:
+If your coding test is not loading or gets stuck, refresh the page, clear cache, or try another browser like Chrome.
+
+Submission issues:
+If your code submission fails, check for compilation errors, time limits, or incorrect input handling.
+
+Account access:
+If your account is locked due to multiple failed login attempts, wait for a few minutes or contact support.
+
+General help:
+Always ensure your internet connection is stable while attempting assessments or interviews.
