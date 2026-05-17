@@ -1,12 +1,16 @@
+from dotenv import load_dotenv
+import os
 from google import genai
 from google.api_core.exceptions import ResourceExhausted
+
+
 
 # =========================
 # GEMINI CLIENT
 # =========================
-
+load_dotenv()
 client = genai.Client(
-    api_key="AIzaSyDRdREpzftI7CCcJeDFXKAueTsduK75Lak"
+    # api_key = os.getenv("GEMINI_API_KEY")
 )
 
 MODEL_NAME = "gemini-2.5-flash"
